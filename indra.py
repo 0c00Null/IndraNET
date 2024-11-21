@@ -1,5 +1,9 @@
 # indra =v0.0.1
-
+# ---------------------
+#
+#
+#
+# ---------------------
 
 def _banner():
     print("""
@@ -15,9 +19,7 @@ def _banner():
                                                          
             
             ➥  dev by ❝ khorchf ❞ , github @khorchf  
-            ➥  version v0.0.1                      
-            ➥  work on all unix/linux distribuion's 
-            ➥                                                                           
+            ➥  version v0.0.1                                                                                          
                                                                                 
     """)
 
