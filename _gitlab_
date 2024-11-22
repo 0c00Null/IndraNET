@@ -1,0 +1,18 @@
+# gitlab.com/khorchf/indr4
+
+to clone with SSH : 
+> git@gitlab.com:khorchf/indr4.git
+
+to clone with HTTPS :
+> https://gitlab.com/khorchf/indr4
+
+then :
+> cd (current dir) /existing_rep0sit0ry
+> git remote add origin https://gitlab.com/khorchf/indr4.git
+> git branch -M main
+> git push -u -f origin main
+( -u == pull , pull+push == -u )
+
+
+
+
